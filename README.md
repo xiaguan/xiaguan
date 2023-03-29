@@ -12,7 +12,7 @@
 ### Lanuages
 - Cpp is the best programing language! (go-rust-python)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaguan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaguan&show_icons=true&theme=tokyonight)
 
 <!---
 xiaguan/xiaguan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
