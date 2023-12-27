@@ -6,4 +6,4 @@
 ### Recent plans
 - DatenLord
 
-# Stay hungry, Stay foolish
+# Stay Hungry, Stay Foolish
